@@ -1,4 +1,4 @@
-# Market-Segmentation-for-Airlines
+# Market Segmentation for Airlines (RFM Analysis)
 
 One of the business keys is to be able to classify customers, based on their value. So that different marketing strategies can be carried out, can focus on high-value customers, and increase the profit of a company. The purpose of this case is to identify customer value. By using the LRFMC model technique. 
 
